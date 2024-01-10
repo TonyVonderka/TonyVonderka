@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Vonderka</h1>
-- 🌱 I’m currently learning **JavaScript**
+- 🤓 I’m currently learning **JavaScript**
 <img align="right" alt="Yuuichi" width="350" src="https://i.pinimg.com/originals/1b/2e/0e/1b2e0ef7aafa0d4ee33ce0d24412fac0.gif">
 
 <h3 align="left">Connect with me:</h3>
