@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tony Vonderka</h1>
 - 🌱 I’m currently learning **JavaScript**
-<img align="right" alt="Yuichi" width="400" src="https://tenor.com/cs/view/yuuichi-katagiri-gif-26420485"
+<img align="right" alt="Yuuichi" width="400" src="https://media.tenor.com/P_oia0G80ZIAAAAM/yuuichi-katagiri.gif"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
