@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning **JavaScript**
 <img align="right" alt="Yuuichi" width="350" src="https://i.pinimg.com/originals/1b/2e/0e/1b2e0ef7aafa0d4ee33ce0d24412fac0.gif"
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tonyvonderka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonyvonderka" height="30" width="40" /></a>
 <a href="https://instagram.com/tonyvonderka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonyvonderka" height="30" width="40" /></a>
