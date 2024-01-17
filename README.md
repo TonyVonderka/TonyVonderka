@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Tony+Vonderka!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What%27s up homie!+%F0%9F%91%8B;+It%27s+Tony+Vonderka!;" />
 </h1>
 - 👨🏾‍💻 I’m currently learning JavaScript and Flutter
 <img align="right" alt="Yuuichi" width="350" src="https://i.pinimg.com/originals/1b/2e/0e/1b2e0ef7aafa0d4ee33ce0d24412fac0.gif">
