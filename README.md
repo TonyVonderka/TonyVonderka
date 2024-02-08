@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What's+up+homie!+%F0%9F%91%8B;+It's+Tony!;" />
 </h1>
-- 👨🏾‍💻 I’m currently learning JavaScript and Flutter
+- 👨🏾‍💻 I’m currently learning JavaScript
 <img align="right" alt="Yuuichi" width="350" src="https://i.pinimg.com/originals/1b/2e/0e/1b2e0ef7aafa0d4ee33ce0d24412fac0.gif">
 
 <h3 align="left">Connect with me:</h3>
